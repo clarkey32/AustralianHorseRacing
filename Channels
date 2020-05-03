@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.skyracing.com.au/assets/website_images/images/Logos/Sky-Racing_MASTER_NEWSP_LOGO_650x300.jpg",Sky Racing 1 HD
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.skyracing.com.au/assets/website_images/images/Logos/Sky-Racing_MASTER_NEWSP_LOGO_650x300.jpg",Sky Racing 2 HD
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219669/skyracing_live_mobil/sky2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.skyracing.com.au/assets/website_images/images/Logos/SR-Thumb-Thoroughbred-Central.jpg",Thoroughbred Central
+http://kitdigitaioslive-i.akamaihd.net/hls/live/219670/skyr_ios_unblocked/skyrnsw_extreme@219670.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fsyd3-1.fna.fbcdn.net/v/t1.0-9/14055152_1842033236030183_8087869729999843133_n.png?_nc_cat=1&_nc_ohc=-sLezmlUjAkAX_2aA3X&_nc_ht=scontent.fsyd3-1.fna&oh=eb4e4a75c860a964e9806e8eb8de14bb&oe=5EB2FC42",Racing.com
+https://npc.cdn.7livecloud.io/hls/live/RAC/master.m3u8
